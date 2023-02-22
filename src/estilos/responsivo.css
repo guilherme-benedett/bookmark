@@ -2,4 +2,7 @@
     .tablet-e-favorito{
         flex-direction: row-reverse;
     }
+    .marcador{
+        flex-direction: row;
+    }
 }
